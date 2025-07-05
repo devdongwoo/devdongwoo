@@ -5,9 +5,9 @@
 
 ## Career
 - 2025.01 ~ 2025.05: 신한은행 헤이영 프로젝트 FullStack 참여 (Vue, Jsp, Spring, Oracle)
-- 2022.01 ~ 2022.12: BHC 인사 / 영업 프로젝트 FullStack 참여 (React, Jsp, Spring, Mssql, Jquery)
+- 2022.01 ~ 2022.12: BHC 인사 / 영업 ERP 프로젝트 FullStack 참여 (React, Jsp, Spring, Mssql, Jquery)
 - 2022.09 ~ 2022.10: 사조 Javascript 모듈 개발 참여 (Javascript)
-- 2021.09 ~ 2021.12: SK행복나래 Fullstack 참여 (Jsp, Spring, Mssql, Jquery)
+- 2021.09 ~ 2021.12: SK행복나래 ERP 프로젝트 Fullstack 참여 (Jsp, Spring, Mssql, Jquery)
 - 2021.05 ~ 2021.09: Bhc wms 프로젝트 FullStack 참여 (Jsp, React, Spring, Mssql, Jquery)
 - 2020.10 ~ 2020.12: 퍼블리셔로 시작 (React, Javascript, Css)
 
