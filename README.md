@@ -1,4 +1,11 @@
-## Hi there 👋
+## Career
+
+- 2025.01 ~ 2025.05: 신한은행 헤이영 프로젝트 FullStack 참여
+- 2022.01 ~ 2022.12: Bhc 인사 / 영업 프로젝트 FullStack 참여
+- 2022.09 ~ 2022.10: 사조 Javascript 모듈 개발 참여
+- 2021.09 ~ 2021.12: SK행복나래 Fullstack 참여
+- 2021.05 ~ 2021.09: Bhc wms 프로젝트 FullStack 참여
+- 2020.10 ~ 2020.12: 퍼블리셔로 시작 
 
 <!--
 **devdongwoo/devdongwoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
