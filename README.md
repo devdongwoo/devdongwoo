@@ -11,9 +11,6 @@
 - 2021.05 ~ 2021.09: Bhc wms 프로젝트 FullStack 참여 (Jsp, React, Spring, Mssql, Jquery)
 - 2020.10 ~ 2020.12: 퍼블리셔로 시작 (React, Javascript, Css)
 
-## Stack
-- <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"> 
-- <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/mssql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 
 <!--
 **devdongwoo/devdongwoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
