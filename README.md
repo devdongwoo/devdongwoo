@@ -6,11 +6,10 @@
 ## Career
 - 3년차 프리랜서 개발자 
 - 2025.01 ~ 2025.05: 신한은행 헤이영 프로젝트 FullStack 참여 
-- 2022.01 ~ 2022.12: BHC 영업 ERP 프로젝트 FullStack 참여 
-- 2022.09 ~ 2022.10: 사조 Javascript 모듈 개발 참여 
-- 2021.09 ~ 2021.12: SK행복나래 ERP 프로젝트 Fullstack 참여 
-- 2021.05 ~ 2021.09: BHC WMS 프로젝트 FullStack 참여 
-- 2020.10 ~ 2020.12: 퍼블리셔로 시작 
+- BHC 영업 ERP 프로젝트 FullStack 참여 
+- 사조 Javascript 모듈 개발 참여 
+- SK행복나래 ERP 프로젝트 Fullstack 참여 
+- BHC WMS 프로젝트 FullStack 참여
 
 
 <!--
