@@ -11,6 +11,9 @@
 - SK행복나래 ERP 프로젝트 참여 
 - BHC WMS 프로젝트 참여
 
+## 최근 문제 해결
+https://github.com/invertase/react-native-firebase/issues/7816#issuecomment-2910161410
+react-native firebase 공식개발자까지 참여
 
 <!--
 **devdongwoo/devdongwoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
